@@ -10,11 +10,7 @@ class Vehicle : public Moveable, public Resizeable {
     std::string name;
     public:
     Vehicle(std::string name);
-    void move();
-    void forward();
-    void backward();
-    void enlarge(int n);
-    void shrink(int n);
+    virtual void move() = 0;
 };
 
 #endif
