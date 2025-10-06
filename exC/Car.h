@@ -1,3 +1,11 @@
+/*
+ * File Name: Car.h
+ * Assignment: Lab 4 Exercise C
+ * Lab Section: B02
+ * Completed by: Stephen Ravelo, Aaron Lauang
+ * Submission Date: October 6, 2025
+ */
+
 #ifndef CAR_H
 #define CAR_H
 
